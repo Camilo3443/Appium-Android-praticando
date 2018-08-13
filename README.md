@@ -3,7 +3,7 @@ Practice Test Automation with Appium framework
 
 Executando o Projeto 🎯
 1. Faça um clone do projeto:
-git clone https://github.com/Camilo3443/Appium---Android--praticando.git
+git clone https://github.com/Camilo3443/Appium-Android-praticando
 
 2. Acesse a pasta pelo terminal e execute o comando:
 bundle
