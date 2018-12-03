@@ -1,4 +1,7 @@
 CONFIGURACOES DE AMBIENTE NECESSARIAS PARA RODAR O PROJETO
+Docker:
+docker run -p 4723:4723 --name ruby_cucumber -ti -v C:\Users\Andre\projetos\Appium-Android-praticando:/var/www/ruby_cucumber ruby:2.3 bash
+
 
 
 a. Instalar o Homebrew:
