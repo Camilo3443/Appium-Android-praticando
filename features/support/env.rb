@@ -13,7 +13,8 @@ def caps
             newCommandTimeout: "3600"
             #noReset: true
             #fullReset: true
-        }
+        },
+        appium_lib: { server_url: 'http://docker.mac.localhost:4723/wd/hub' }
     }
 end
 
